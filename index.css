@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+#div1 {
+    height: 640px;
+    width: 200px;
+    border: 1px solid rgb(255, 255, 255);
+    float: right;
+    margin-right: 50px;
+    background-color: rgb(255, 255, 255);
+    background-image: url(flower.jfif);
+    background-repeat: no-repeat;
+}
+
+p {
+    text-transform: capitalize;
+    text-decoration: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+}
+
+#audio {
+    position: absolute;
+    top: 400px;
+    left: 30%;
+}
+#image{
+    margin-left: 50px;
+    width: 500px;
+    height: 500px;
+}
